@@ -44,7 +44,7 @@ pip install requests
 3. Run the script using the following command:
 
 ```bash
-python export_slack_messages.py
+python export.py
 ```
 
 This will export all messages from the specified Slack channel and save them in `slack_conversation_export.json`.
