@@ -39,7 +39,7 @@ pip install requests
    - `YOUR_SLACK_API_TOKEN_HERE`: Replace with the OAuth token obtained from your Slack app.
    - `YOUR_CHANNEL_ID_HERE`: Find the channel ID by going to the Slack channel, clicking on "Details," and copying the channel ID from the URL.
    
-2. Save the script as `export_slack_messages.py`.
+2. Save the script.
 
 3. Run the script using the following command:
 
